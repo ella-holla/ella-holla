@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ella-holla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning chip design
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me email
+- 📫 How to reach me: email
 - 😄 Pronouns: she. her
 - ⚡ Fun fact:-...
 
